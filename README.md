@@ -1,5 +1,9 @@
 # RF–OWC–RF Wireless Sensor Communication System
 
+**Developed by Amila Perera**  
+Centre for Wireless Communications (CWC)  
+University of Oulu, Finland
+
 This repository contains the firmware and Python scripts for an experimental **RF–Optical Wireless Communication–RF (RF–OWC–RF) interface** for low-power sensor data transmission.
 
 The system receives sensor measurements over Bluetooth Low Energy (BLE), forwards them through an optical wireless link, and retransmits the recovered information via BLE to a data sink.
